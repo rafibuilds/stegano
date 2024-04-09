@@ -3,4 +3,7 @@ This is a Python program that lets you hide information inside pictures(especial
 
 ## Instructions
 1. Clone the repository on your local machine
-2. type `python stegano.py` and hit enter
+2. Select a picture that you want to encode with a secret text
+3. Move the picture to the directory that contains the `stegano.py` file
+4. Type `python stegano.py` and hit Enter
+5. Follow the instructions
